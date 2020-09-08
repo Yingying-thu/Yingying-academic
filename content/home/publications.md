@@ -67,6 +67,14 @@ subtitle = ""
  css_class = ""
 +++
 
+「Online Article」
+
+Y. Li, W. Xiong, C. Zhang and X. Yang, “Research on flexiblethin-disk glucose biofuel cells based on single walled carbon nanotubeelectrodes”, Journal of Nanomaterials, Vol.2019, ID: 1609579, IF: 2.233
+
+「Conference Contribution」
+
+Li Y., Lu X., Teucke T., Munief W. M., Pachauri V., IngebrandtS., "Integration of an Autosampler and a micro-fluidic setup for real-timeimpedimetric biosensing", EnFI 2018
+
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
