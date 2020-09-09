@@ -1,5 +1,5 @@
 ---
-title: Triboelectric energy harvesting system based on electrostatic MEMS switch
+title: Triboelectric energy conditioning circuit based on electrostatic MEMS switch
 subtitle: Graduate Student, Tsinghua University, China
 date: 2020-07-12
 math: true
