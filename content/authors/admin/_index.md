@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student at
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include MEMS switches, power-electronics, energy harvesting devices.
+bio: Follow your brain.
 
 interests:
 - MEMS switches
