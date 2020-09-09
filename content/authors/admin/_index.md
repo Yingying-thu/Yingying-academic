@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-I'm now a graduate student at Tsinghua Intelligent Micro Systems Lab. My research interests focus on MEMS switches, micro-machining process, power electronics and energy harvesting devices. 
+I'm now a graduate student at Tsinghua Intelligent Micro Systems Lab. My research interests are focused on MEMS switches, micro-machining process, power electronics and energy harvesting devices. 
 
 I have double master's degree in both China and Germany and over 3 years experience managing multiple projects including micro-sensors, micro-machining process and micro-energy.
 
