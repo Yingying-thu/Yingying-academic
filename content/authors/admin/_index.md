@@ -47,13 +47,13 @@ social:
   link: 'mailto:yingying.li346@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/jinshuiyy1
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Yingying-thu/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,7 +70,8 @@ user_groups:
 - Visitors
 ---
 
-Yingying Li is a graduate student at the Tsinghua Intelligent Micro System Lab. Her research interests include MEMS switches, micro-machining process, power electronics and energy harvesting devices. 
+I'm now a graduate student at Tsinghua Intelligent Micro Systems Lab. My research interests focus on MEMS switches, micro-machining process, power electronics and energy harvesting devices. 
 
-Yingying is self-motivated and highly-skilled student with double master's degree and over 3 years experience managing multiple projects including micro-sensors, micro-machining process and micro-energy.
+I have double master's degree in both China and Germany and over 3 years experience managing multiple projects including micro-sensors, micro-machining process and micro-energy.
+
 
