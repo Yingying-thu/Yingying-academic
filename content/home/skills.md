@@ -18,7 +18,7 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "GPA"
-  description = "3.55/4.00"
+  description = "3.57/4.00"
 
 [[feature]]
   icon = "r-project"
